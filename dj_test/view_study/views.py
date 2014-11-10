@@ -30,3 +30,5 @@ class HelloTemplate(TemplateView):
 		context['name'] = "Saravanan"
 		return context	
 		
+def dummy_class():
+	return None
